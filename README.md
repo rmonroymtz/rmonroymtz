@@ -7,7 +7,7 @@ React Developer
 *   🌍  I'm based in Mexico City
 *   🖥️  See my portfolio at [ricardomonroy.dev](http://ricardomonroy.dev)
 *   ✉️  You can contact me at [rmonroymtz1@gmail.com](mailto:rmonroymtz1@gmail.com)
-*   🚀  I'm currently working on [Wolfsellers](http://wolfsellers.com)PaulinaP
+*   🚀  I'm currently working on [Wolfsellers](http://wolfsellers.com)
 *   🧠  I'm learning A new methodology micro frontneds
 
 ### Skills
